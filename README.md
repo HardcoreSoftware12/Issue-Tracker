@@ -1,7 +1,7 @@
 # Issue-Tracker
 # Home Page
-Show a list of projects.
-Give a button to create a new Project (On creating a new project it should appear in the list)
+- Show a list of projects.
+- Give a button to create a new Project (On creating a new project it should appear in the list)
 
 # Create Project Page
 Accept the following fields to create a project
